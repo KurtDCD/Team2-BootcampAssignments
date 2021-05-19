@@ -1,5 +1,6 @@
 # bootcamp-assignments
-
+# About me
+I'm 22 and my name is Kurt Contreras. I live in Mexico City and just finished my major in Mechatronics Engineering. I look forward to working on Autonomous Vehicles in my career.
 ### Dependencies:
 * ros-kinetic-laser-proc*
 * ros-kinetic-urg-c
